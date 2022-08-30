@@ -7,7 +7,7 @@ a minimal css framework
 
 ## Einsatz auf folgenden Projekten
 
-[naanoo.com](https://www.naanoo.com)
-[naanoo.de](https://www.naanoo.de)
-[medizin.plus](https://medizin.plus)
-[localpedia.de](https://localpedia.de/)
+- [naanoo.com](https://www.naanoo.com)
+- [naanoo.de](https://www.naanoo.de)
+- [medizin.plus](https://medizin.plus)
+- [localpedia.de](https://localpedia.de/)
