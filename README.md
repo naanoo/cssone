@@ -1,4 +1,4 @@
-# cssone
+# CSS one
 a minimal css framework
 
 **[EN]** I build this minimal CSS framework primarily for my own projects. Since these are content-centric, I will limit it to elements that are needed for online magazine content design.
